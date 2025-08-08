@@ -11,12 +11,9 @@ Aplikasi Flutter untuk membaca novel offline dengan tampilan modern dan fitur le
 ✅ Simpan halaman terakhir dibaca  
 ✅ Desain responsif untuk Android & iOS  
 
-<p align="center">
-  <img src="screenshots/icon.png" width="120" alt="Bacanovel App Icon">
-</p>
 
 <p align="center">
-  <a href="https://github.com/Project20250807/novel/releases/download/v1.0.0/bacanovel.apk">
+  <a href="[https://github.com/Project20250807/novel/releases/download/v1.0.0/bacanovel.apk](https://github.com/Project20250807/novel/releases/download/v1.0.0/app-release.apk)">
     <img src="https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android" alt="Download APK">
   </a>
 </p>
@@ -37,4 +34,5 @@ flutter pub get
 
 # 4️⃣ Jalankan aplikasi
 flutter run
+
 
